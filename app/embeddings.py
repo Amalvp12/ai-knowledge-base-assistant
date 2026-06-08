@@ -1,9 +1,6 @@
-import google.generativeai as genai
+from sentence_transformers import SentenceTransformer
+
+model = SentenceTransformer("all-MiniLM-L6-v2")
 
 def create_embedding(text):
-    response = genai.embed_content(
-        model="models/gemini-embedding-001",
-        content=text
-    )
-
-    return response["embedding"]
+    return model.encode(text).tolist()
