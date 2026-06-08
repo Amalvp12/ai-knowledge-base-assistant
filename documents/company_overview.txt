@@ -1,0 +1,28 @@
+Company Name: ABC Technologies
+
+About Company:
+ABC Technologies is a software development and AI consulting company that provides innovative technology solutions to businesses worldwide.
+
+Mission:
+To deliver reliable, scalable, and intelligent software solutions.
+
+Vision:
+To become a trusted global technology partner.
+
+Services:
+- Artificial Intelligence Solutions
+- Machine Learning Development
+- Web Development
+- Mobile Application Development
+- Cloud Solutions
+
+Office Locations:
+Kochi, Kerala
+Bangalore, Karnataka
+
+Working Hours:
+Monday to Friday, 9:00 AM to 6:00 PM
+
+Contact Information:
+Email: info@abcteknologies.com
+Phone: +91-9876543210

@@ -1,0 +1,31 @@
+IT Policy - ABC Technologies
+
+Password Policy:
+Employees must use strong passwords containing uppercase letters, lowercase letters, numbers, and special characters. Passwords should be changed every 90 days.
+
+Email Usage Policy:
+Company email accounts must be used only for business-related communication. Sharing confidential information with unauthorized individuals is prohibited.
+
+Internet Usage Policy:
+Employees may use the internet for work-related purposes. Accessing unauthorized or harmful websites is not allowed.
+
+Device Usage Policy:
+Company-issued laptops and devices should be used responsibly and protected from unauthorized access.
+
+Data Security:
+Employees must protect company data and follow security guidelines. Sensitive information should not be shared outside the organization without authorization.
+
+Software Installation:
+Only approved software may be installed on company devices. Employees must obtain permission from the IT department before installing new applications.
+
+Remote Access:
+Employees working remotely must use secure connections and company-approved VPN services.
+
+Incident Reporting:
+Any suspected security breach, phishing attempt, or malware infection should be reported immediately to the IT support team.
+
+Backup Policy:
+Important company data is backed up regularly. Employees should store work files in approved company storage systems.
+
+Account Management:
+User accounts are managed by the IT department. Employees should notify IT immediately if they suspect unauthorized account access.
